@@ -1,0 +1,149 @@
+id,name,sex,sport,nationality,status,type,team
+usab,Usain Bolt,2,Leichtathletik,JAM,2,1,2
+mond,Mondo Duplantis,2,Leichtathletik,SWE,1,1,2
+josc,Joshua Cheptegei,2,Leichtathletik,UGA,1,1,2
+cara,Carlos Alcaraz,2,Tennis,ESP,1,1,2
+leom,Leon Marchand,2,Schwimmen,FRA,1,1,2
+tadp,Tadej Pogacar,2,Radfahren,SLO,1,1,2
+ousd,Ousmane Dembele,2,Fussball,FRA,1,1,1
+jans,Jannik Sinner,2,Tennis,ITA,1,1,2
+sifh,Sifan Hassan,1,Leichtathletik,NED,1,1,2
+arys,Aryna Sabalenka,1,Tennis,BLR,1,1,2
+maxv,Max Verstappen,2,F1,NDL,1,1,1
+danr,Daniela Ryf,1,Triathlon,SUI,1,1,2
+allf,Allyson Felix,1,Leichtathletik,USA,1,1,2
+simh,Simona Halep,1,Tennis,ROU,1,1,2
+marm,Marc Marquez,2,MotoGP,ESP,1,1,1
+novd,Novak Djokovic,2,Tennis,SRB,1,1,2
+elik,Eliud Kipchoge,2,Leichtathletik,KEN,1,1,2
+melj,Melissa Jefferson-Wooden,1,Leichtathletik,USA,1,1,2
+tigw,Tiger Woods,2,Golf,USA,1,1,2
+estl,Ester Ledecka,1,Ski/Snowboard,CZE,1,1,2
+simb,Simone Biles,1,Turnen,USA,1,1,2
+lukm,Luka Modric,2,Fussball,CRO,1,1,1
+lauk,Laura Kenny,1,Radfahren,GBR,1,1,1
+megr,Megan Rapinoe,1,Fussball,USA,1,1,1
+liom,Lionel Messi,2,Fussball,ARG,1,1,1
+angk,Angelique Kerber,1,Tennis,GER,1,1,2
+bres,Breanna Stewart,1,Basketball,USA,1,1,1
+miks,Mikaela Shiffrin,1,Ski/Snowboard,USA,1,1,2
+rafn,Rafael Nadal,2,Tennis,ESP,1,1,2
+annb,Anna van der Breggen,1,Radfahren,NDL,1,1,2
+katl,Katie Ledecky,1,Schwimmen,USA,1,1,2
+tomb,Tom Brady,2,Football,USA,2,1,1
+caed,Caeleb Dressel,2,Schwimmen,USA,1,1,2
+wenr,Wendie Renard,1,Fussball,FRA,1,1,1
+sydm,Sydney Mclaughlin-Levrone,1,Leichtathletik,USA,1,1,2
+igas,Iga Swiatek,1,Tennis,POL,1,1,2
+shej,Sherika Jackson,1,Leichtathletik,JAM,1,1,2
+lewh,Lewis Hamilton,2,F1,GBR,1,1,1
+aitb,Aitana Bonmati,1,Fussball,ESP,1,1,1
+faik,Faith Kipyegon,1,Leichtathletik,KEN,1,1,2
+shar,Sha`Carri Richardson,1,Leichtathletik,USA,1,1,2
+erlh,Erling Haaland,2,Fussball,NOR,1,1,1
+noal,Noah Lyles,2,Leichtathletik,USA,1,1,2
+alep,Alexia Putellas,1,Fussball,ESP,1,1,1
+kylm,Kylian Mbappe,2,Fussball,FRA,1,1,1
+shfp,Shelly-Ann Fraser-Pryce,1,Leichtathletik,JAM,1,1,2
+naoo,Naomi Osaka,1,Tennis,JPN,1,1,2
+elat,Elaine Thompson-Herha,1,Leichtathletik,JAM,1,1,2
+robl,Robert Lewandowski,2,Fussball,POL,1,1,1
+freb,Frederica Brignone,1,Ski/Snowboard,ITA,1,1,2
+ashb,Ashleigh Barty,1,Tennis,AUS,2,1,2
+brik,Brigid Kosgei,1,Leichtathletik,KEN,1,1,2
+emmm,Emma Mckeon,1,Schwimmen,AUS,2,1,2
+stec,Stephen Curry,2,Basketball,USA,1,1,1
+mofa,Mo Farah,2,Leichtathletik,GBR,1,1,2
+lebj,LeBron James,2,Basketball,USA,1,1,1
+andm,Andy Murray,2,Tennis,GBR,1,1,2
+crir,Cristiano Ronaldo,2,Fussball,POR,1,1,1
+rogf,Roger Federer,2,Tennis,CHE,2,1,2
+chrf,Chris Froome,2,Radfahren,GBR,2,1,2
+serw,Serena Williams,1,Tennis,USA,1,1,2
+gabm,Gabrine Muguruza,1,Tennis,ESP,2,1,2
+cass,Caster Semenya,1,Leichtathletik,ZAF,2,1,2
+leic,Leichtathletik,NA,NA,NA,NA,2,NA
+turn,Turnen,NA,NA,NA,NA,2,NA
+schw,Schwimmen,NA,NA,NA,NA,2,NA
+fuss,Fussball,NA,NA,NA,NA,2,NA
+bask,Basketball,NA,NA,NA,NA,2,NA
+tenn,Tennis,NA,NA,NA,NA,2,NA
+foot,Football,NA,NA,NA,NA,2,NA
+radf,Radfahren,NA,NA,NA,NA,2,NA
+tria,Triathlon,NA,NA,NA,NA,2,NA
+golf,Golf,NA,NA,NA,NA,2,NA
+skis,Ski/Snowboard,NA,NA,NA,NA,2,NA
+f1,F1,NA,NA,NA,NA,2,NA
+motg,MotoGP,NA,NA,NA,NA,2,NA
+oiko,Oikos,NA,NA,NA,NA,3,NA
+yopr,YoPRO,NA,NA,NA,NA,3,NA
+babo,babolat,NA,NA,NA,NA,3,NA
+spee,speedo,NA,NA,NA,NA,3,NA
+whoo,whoop,NA,NA,NA,NA,3,NA
+dmtc,DMT Cycling,NA,NA,NA,NA,3,NA
+meth,MET Helmets,NA,NA,NA,NA,3,NA
+coln,Colnago,NA,NA,NA,NA,3,NA
+ener,Enervit,NA,NA,NA,NA,3,NA
+conr,Continental Reifen,NA,NA,NA,NA,3,NA
+adid,Adidas,NA,NA,NA,NA,3,NA
+head,Head,NA,NA,NA,NA,3,NA
+wils,Wilson,NA,NA,NA,NA,3,NA
+elec,Electrolit,NA,NA,NA,NA,3,NA
+nord,NordicTrack,NA,NA,NA,NA,3,NA
+thrs,Throne SPORT COFFEE,NA,NA,NA,NA,3,NA
+clib,CLIF BAR,NA,NA,NA,NA,3,NA
+gato,Gatorade,NA,NA,NA,NA,3,NA
+newb,Newbalance,NA,NA,NA,NA,3,NA
+bana,Band Aid,NA,NA,NA,NA,3,NA
+oakm,Oakley Meta,NA,NA,NA,NA,3,NA
+oshe,Oshee,NA,NA,NA,NA,3,NA
+on,On,NA,NA,NA,NA,3,NA
+tecn,Tecnifibre,NA,NA,NA,NA,3,NA
+easp,EA Sports,NA,NA,NA,NA,3,NA
+topp,Topps,NA,NA,NA,NA,3,NA
+wata,WATA,NA,NA,NA,NA,3,NA
+powe,Powerade,NA,NA,NA,NA,3,NA
+budw,Budweiser,NA,NA,NA,NA,3,NA
+hype,Hyperice,NA,NA,NA,NA,3,NA
+traf,Track & Field Collections,NA,NA,NA,NA,3,NA
+cels,Celsius,NA,NA,NA,NA,3,NA
+pana,Panini America,NA,NA,NA,NA,3,NA
+coro,COROS,NA,NA,NA,NA,3,NA
+drwi,Dr. Witt,NA,NA,NA,NA,3,NA
+ksma,Ksm 66 Ashwagandha,NA,NA,NA,NA,3,NA
+lali,Laligagolazos,NA,NA,NA,NA,3,NA
+tech,Technogym,NA,NA,NA,NA,3,NA
+ea7e,EA7 / Emporio Armani,NA,NA,NA,NA,3,NA
+ross,Rossignol,NA,NA,NA,NA,3,NA
+lang,Lange,NA,NA,NA,NA,3,NA
+leve,Level,NA,NA,NA,NA,3,NA
+dain,Dainese,NA,NA,NA,NA,3,NA
+spec,Specialized,NA,NA,NA,NA,3,NA
+sram,SRAM,NA,NA,NA,NA,3,NA
+garm,Garmin,NA,NA,NA,NA,3,NA
+tacx,Tacx,NA,NA,NA,NA,3,NA
+clas,Classified,NA,NA,NA,NA,3,NA
+truek,TrueKinetix,NA,NA,NA,NA,3,NA
+debo,Deboer,NA,NA,NA,NA,3,NA
+nobu,NOBULL,NA,NA,NA,NA,3,NA
+fila,Fila,NA,NA,NA,NA,3,NA
+puma,Puma,NA,NA,NA,NA,3,NA
+nike,Nike,NA,NA,NA,NA,3,NA
+unar,Under Armour,NA,NA,NA,NA,3,NA
+gkel,GK Elite,NA,NA,NA,NA,3,NA
+yone,Yonex,NA,NA,NA,NA,3,NA
+laco,Lacoste,NA,NA,NA,NA,3,NA
+tomh,Tommy Hilfiger,NA,NA,NA,NA,3,NA
+asic,Asics,NA,NA,NA,NA,3,NA
+atom,Atomic,NA,NA,NA,NA,3,NA
+alpi,Alpinestars,NA,NA,NA,NA,3,NA
+babl,Babolat,NA,NA,NA,NA,3,NA
+athl,Athleta,NA,NA,NA,NA,3,NA
+fact,Factormeals,NA,NA,NA,NA,3,NA
+roco,Ro.co,NA,NA,NA,NA,3,NA
+ritu,Ritual,NA,NA,NA,NA,3,NA
+luxt,LUX Tennis,NA,NA,NA,NA,3,NA
+mips,Mipsprotection,NA,NA,NA,NA,3,NA
+agI,AG1,NA,NA,NA,NA,3,NA
+pina,Pinarello,NA,NA,NA,NA,3,NA
+tyrs,TYR Sport,NA,NA,NA,NA,3,NA
