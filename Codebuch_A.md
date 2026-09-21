@@ -8,7 +8,7 @@
 
 **Fokus:** Es wird geschaut, von welchen Sportmarken Sportler*innen, die im Zeitraum 2017 bis 2026 für den Laureus-Preis nominiert waren, gesponsert werden.
 
-
+---
 
 **Allgemeine Informationen:**
 
@@ -22,7 +22,7 @@ Ego-Netzwerke ergeben sich bei der Analyse → bestimmte Sportmarke analysieren
 
 Momentaufnahme → also was gerade aktuell ist und wenn sie nicht mehr aktiv sind, der letzte Vertrag
 
-
+---
 
 **Knoten Attribute:**
 
@@ -54,7 +54,7 @@ type: 	1 = Sportler*in
 team: 	1 = ja
         2 = nein
 
-
+---
 
 **Kanten Attribute:**
 
@@ -65,6 +65,7 @@ to: Sportart oder Sportmarke
 relationship: 	1 = zur Sportart
                 2 = zur Sportmarke
 
+---
 
 **Versionierungsregel:**
 
@@ -74,6 +75,7 @@ z.B. 	codebuch_A
       codebuch_B
       codebuch_C …
 
+---
 
 **Kodierregeln:**
 
