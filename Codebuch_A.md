@@ -18,7 +18,7 @@ Ungerichtet
 
 Ungewichtet 
 
-Momentaufnahme → die aktuellen Verträge der Sportler*innen mit Sportmarken (wenn sie nicht mehr aktiv sind, zählen die letzten Verträge vor Karriereende) 
+Momentaufnahme → es zählen die aktuellen Verträge der Sportler*innen mit Sportmarken (wenn sie nicht mehr aktiv sind, zählen die letzten Verträge vor Karriereende) 
 
 ---
 
