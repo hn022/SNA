@@ -20,3 +20,4 @@ Pro Sportler oder Sportlerin wurden ca. 30 bis 45 Minuten recherchiert, um herau
 **3. Eintragen und Bereinigen der Edge- und Nodelist**
 
 Das erste Eintragen der erhobenen Daten in die Listen dauerte **ca. 2 Stunden**. Für das Bereinigen der Listen brauchten wir **ca. 5 Stunden**.
+
