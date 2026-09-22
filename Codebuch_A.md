@@ -2,11 +2,11 @@
 
 **Version:** Codebuch_A
 
-**Letzte Überarbeitung:** 21.September 2026
+**Letzte Überarbeitung:** 22.September 2026
 
 **Kurs:** Soziale Netzwerkanalyse SoSe 2026
 
-**Fokus:** Es wird geschaut, von welchen Sportmarken Sportler*innen, die im Zeitraum 2017 bis 2026 für den Laureus-Preis nominiert waren, gesponsert werden.
+**Fokus:** Es wird geschaut, von welchen Sportmarken Sportler*innen, die im Zeitraum 2017 bis 2026 für den Laureus-Preis (sportsman/sportswoman of the year) nominiert waren, gesponsert werden.
 
 ---
 
@@ -18,9 +18,7 @@ Ungerichtet
 
 Ungewichtet 
 
-Ego-Netzwerke ergeben sich bei der Analyse → bestimmte Sportmarke analysieren
-
-Momentaufnahme → also was gerade aktuell ist und wenn sie nicht mehr aktiv sind, der letzte Vertrag
+Momentaufnahme → die aktuellen Verträge der Sportler*innen mit Sportmarken (wenn sie nicht mehr aktiv sind, zählen die letzten Verträge vor Karriereende) 
 
 ---
 
@@ -37,7 +35,7 @@ name: 	Name der Marke
 sex: 	  1 = weiblich
         2 = männlich
 
-sport: 	Sportart wird mit den ersten vier Buchstaben abgekürzt
+sport: 	Sportart wird mit vier Buchstaben abgekürzt
 
 z.B. Schwimmen = schw
 
