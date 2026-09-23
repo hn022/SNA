@@ -3,7 +3,7 @@
 
 **1. Auswahl der Sportler*innen** 
 
-Bei der Auswahl der der Sportlerinnen und Sportler haben wir direkt gewusst, dass wir mit irgendeiner Art von Liste arbeiten möchten und auch sollten, weil wir so nicht einfach irgendwelche Sportlerinnen und Sportler auswählen. Schnell haben wir uns für den Laureus-Preis entschieden, da es hier sehr einfach ist, die Nominierten der letzten Jahre einzusehen.
+Bei der Auswahl der der Sportlerinnen und Sportler haben wir direkt gewusst, dass wir mit irgendeiner Art von Liste arbeiten möchten und auch sollten, weil wir so nicht einfach irgendwelche Sportlerinnen und Sportler auswählen. Wir haben uns für den Laureus-Preis entschieden, da es hier sehr einfach ist, die Nominierten der letzten Jahre einzusehen.
 
 Das Auswählen der Liste und das Herausschreiben der Nominierten der letzten 10 Jahre hat knapp **45 Minuten** gedauert.
 
