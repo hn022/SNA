@@ -88,6 +88,18 @@ z.B. GER
 2 = nein
 
 
+**nominations**
+
+Anzahl der Nominierungen
+
+
+**winner**
+
+1 = ja 
+
+2 = nein
+
+
 # EDGE-Attribute
 
 **from**
