@@ -18,7 +18,7 @@ Der folgende Datensatz wurde anhand der nominierten Sportler und Sportlerinnen d
 
 Bei den erhobenen Daten handelt es sich um eine Momentaufnahme. Das bedeutet, bei aktiven Sportler und Sportlerinnen werden die aktuellen Sportmarken verwendet. Bei inaktiven wird der letzte Vertrag benutzt.
 
-Das Netzwerk ist ein ungerichtetes und ungewichtetes multi-mode Akteursnetzwerk. Die Akteure des Netzwerks sind: die Sportler*in, die Sportarten und die unterschiedlichen Marken.
+Das Netzwerk ist ein *ungerichtetes und ungewichtetes multi-mode Akteursnetzwerk*. Die Akteure des Netzwerks sind: die Sportler*in, die Sportarten und die unterschiedlichen Marken.
 
 
 # NODE-Attribute
