@@ -15,6 +15,19 @@ Codebuch Stand 01.10.26
 
 (...)
 
+Es wird geschaut, von welchen Sportmarken Sportler*innen, die im Zeitraum 2017 bis 2026 für den Laureus-Preis nominiert waren, gesponsert werden.
+
+
+
+Multi-mode Netzwerk: Sportler*in, Sportart, Marke
+
+Ungerichtet
+
+Ungewichtet
+
+Ego-Netzwerke ergeben sich bei der Analyse → bestimmte Sportmarke analysieren
+
+Momentaufnahme → also was gerade aktuell ist und wenn sie nicht mehr aktiv sind, der letzte Vertrag
 
 
 # NODE-Attribute
