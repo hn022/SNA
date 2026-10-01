@@ -1,6 +1,7 @@
 # Codebuch – Sportmarken und Sportler*innen
 
 **Soziale Netzwerkanalyse SoSe 2026**
+
 Codebuch Stand 01.10.26 
 
 ## Inhalt 
