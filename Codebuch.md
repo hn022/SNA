@@ -13,7 +13,6 @@ Codebuch Stand 01.10.26
 
 ## Ursprung und Datenerhebung 
 
-(...)
 
 Der folgende Datensatz wurde anhand der nominierten Sportler*innen des Laureus-Preis (Kategorie: Sportsman of the Year & Sportswoman of the Year) von 2012 - 2026 erhoben. Es wird geschaut von welchen Sportmarken die Sportler*innen gesponsert werden.
 
