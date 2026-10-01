@@ -15,19 +15,11 @@ Codebuch Stand 01.10.26
 
 (...)
 
-Es wird geschaut, von welchen Sportmarken Sportler*innen, die im Zeitraum 2017 bis 2026 für den Laureus-Preis nominiert waren, gesponsert werden.
+Der folgende Datensatz wurde anhand der nominierten Sportler*innen des Laureus-Preis (Kategorie: Sportsman of the Year & Sportswoman of the Year) von 2012 - 2026 erhoben. Es wird geschaut von welchen Sportmarken die Sportler*innen gesponsert werden.
 
+Bei den erhobenen Daten handelt es sich um eine Momentaufnahme. Das bedeutet, bei aktiven Sportler*innen werden die aktuellen Sportmarken verwendet. Bei inaktiven Sportler*innen wird der letzte Vertrag benutzt.
 
-
-Multi-mode Netzwerk: Sportler*in, Sportart, Marke
-
-Ungerichtet
-
-Ungewichtet
-
-Ego-Netzwerke ergeben sich bei der Analyse → bestimmte Sportmarke analysieren
-
-Momentaufnahme → also was gerade aktuell ist und wenn sie nicht mehr aktiv sind, der letzte Vertrag
+Das Netzwerk ist ein ungerichtetes und ungewichtetes multi-mode Akteursnetzwerk. Die Akteure des Netzwerks sind: die Sportler*in, die Sportarten und die unterschiedlichen Marken.
 
 
 # NODE-Attribute
