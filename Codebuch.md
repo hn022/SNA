@@ -6,8 +6,8 @@ Codebuch Stand 01.10.26
 
 ## Inhalt 
 
-- edges_A.csv (Edgelist)
-- nodes_A.csv (Nodelist)
+- edges.csv (Edgelist)
+- nodes.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
 
