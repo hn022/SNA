@@ -71,6 +71,8 @@ z.B. GER
 
 3 = Marke
 
+4 = Länder
+
 
 **team**
 
@@ -100,7 +102,7 @@ Sportler*in
 
 **to**
 
-Sportart oder Sportmarke
+Sportart, Sportmarke oder Land
 
 
 **relationship** 	
@@ -108,3 +110,5 @@ Sportart oder Sportmarke
 1 = zur Sportart              
 
 2 = zur Sportmarke
+
+3 = zum Land
