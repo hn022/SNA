@@ -2,7 +2,7 @@
 
 **Soziale Netzwerkanalyse SoSe 2026**
 
-Codebuch Stand 01.10.26 
+Codebuch Stand 09.11.26 
 
 ## Inhalt 
 
@@ -16,23 +16,23 @@ Codebuch Stand 01.10.26
 
 Der folgende Datensatz wurde anhand der nominierten Sportler und Sportlerinnen des Laureus-Preis (Kategorie: Sportsman of the Year & Sportswoman of the Year) von 2012 - 2026 erhoben. Es wird geschaut von welchen Sportmarken die ausgewählten Personen gesponsert werden.
 
-Bei den erhobenen Daten handelt es sich um eine Momentaufnahme. Das bedeutet, bei aktiven Sportler und Sportlerinnen werden die aktuellen Sportmarken verwendet. Bei inaktiven wird der letzte Vertrag benutzt.
+Bei den erhobenen Daten handelt es sich um eine Momentaufnahme. Das bedeutet, bei aktiven Sportler und Sportlerinnen werden die aktuellen Sportmarken verwendet. Bei inaktiven werden die letzten Verträge benutzt.
 
-Das Netzwerk ist ein *ungerichtetes und ungewichtetes multi-mode Akteursnetzwerk*. Die Akteure des Netzwerks sind: die Sportler*in, die Sportarten und die unterschiedlichen Marken.
+Das Netzwerk ist ein *ungerichtetes und ungewichtetes multi-mode Akteursnetzwerk*. Die Akteure des Netzwerks sind: die Sportler*in, die Sportarten, die unterschiedlichen Marken und die Herkunftsländer der Sportlerinnen und Sportler.
 
 
 # NODE-Attribute
 
 **id** 	
 
-Die ersten drei Buchstaben des Vornamens und der erste Buchstabe vom Nachname 
+Die ersten drei Buchstaben des Vornamens und der erste Buchstabe vom Nachname der Sportler*innen
 
 z.B. Lebron James = lebj
 
 
 **name**
 
-Name der Marke, Sportart, Sportler*innen
+Name der Marke, Sportart, Sportler*innen oder des Landes
 
 
 **sex**
@@ -71,7 +71,7 @@ z.B. GER
 
 3 = Marke
 
-4 = Länder
+4 = Land
 
 
 **team**
